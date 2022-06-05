@@ -1,1 +1,2 @@
 this is line one and line two 
+adding some text in file 1 in bug 2 branch 
