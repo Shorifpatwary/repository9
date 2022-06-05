@@ -1,2 +1,6 @@
 this is line one and line two 
 adding some text in file 1 in bug 2 branch 
+addine some line in this file . 
+sldjflkdjfldflskfjlsdkfj
+sldkfjlskdjflkdjfl
+sldkfjlskdjfladfj
